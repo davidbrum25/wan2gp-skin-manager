@@ -1,0 +1,7 @@
+{
+  "name": "Wan2GP Skin Manager",
+  "version": "1.0.0",
+  "description": "Select themes for Gradio from the Gradio Themes Gallery",
+  "author": "David Brum",
+  "type": "app"
+}
